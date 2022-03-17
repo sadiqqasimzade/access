@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\git\\all\\acces\\acces\\acces.csproj": {}
+    "C:\\Users\\admin\\Desktop\\git\\1\\acces\\acces\\acces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\git\\all\\acces\\acces\\acces.csproj": {
+    "C:\\Users\\admin\\Desktop\\git\\1\\acces\\acces\\acces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\git\\all\\acces\\acces\\acces.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\acces\\acces.csproj",
         "projectName": "acces",
-        "projectPath": "C:\\Users\\admin\\Desktop\\git\\all\\acces\\acces\\acces.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\acces\\acces.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\git\\all\\acces\\acces\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\acces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\admin\\Desktop\\git\\all\\acces\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\git\\all\\acces\\Lib\\Lib.csproj"
+              "C:\\Users\\admin\\Desktop\\git\\1\\acces\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\Lib\\Lib.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Desktop\\git\\all\\acces\\Lib\\Lib.csproj": {
+    "C:\\Users\\admin\\Desktop\\git\\1\\acces\\Lib\\Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\git\\all\\acces\\Lib\\Lib.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\Lib\\Lib.csproj",
         "projectName": "Lib",
-        "projectPath": "C:\\Users\\admin\\Desktop\\git\\all\\acces\\Lib\\Lib.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\Lib\\Lib.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\git\\all\\acces\\Lib\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

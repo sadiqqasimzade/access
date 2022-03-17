@@ -4,7 +4,7 @@ using System.Text;
 
 namespace acces.Models
 {
-    internal class Class1
+    public class Class1
     {
         public   string name = "Sadiq";
         internal string name1 = "Sadiq";

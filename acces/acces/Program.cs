@@ -16,9 +16,14 @@ namespace acces
             /*Console.WriteLine(class1.name4);*/            //private    protected  
             Console.WriteLine(class1.name5);            //protected  internal 
 
+            LibClass libClass = new LibClass();
 
-            
-
+            Console.WriteLine(libClass.name);             //public   
+            /*Console.WriteLine(libClass.name1);*/            //internal  
+            /*Console.WriteLine(libClass.name2);*/            //private   
+            /*Console.WriteLine(libClass.name3);*/            //protected 
+            /*Console.WriteLine(libClass.name4);*/            //private    protected  
+            /*Console.WriteLine(libClass.name5);*/            //protected  internal 
 
         }
     }
