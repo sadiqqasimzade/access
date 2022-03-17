@@ -1,20 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+using Lib;
 namespace acces.Models
 {
-    public class Inheritence:Lib.LibClass
+    public class Inheritence : LibClass
     {
-       public void ShowInfo()
+        public void ShowInfo()
         {
-            Lib.LibClass libClass = new Lib.LibClass();
-            Console.WriteLine(libClass.name);             //public   
-            Console.WriteLine(libClass.name1);            //internal  
-            Console.WriteLine(libClass.name2);            //private   
-            Console.WriteLine(libClass.name3);            //protected 
-            Console.WriteLine(libClass.name4);            //private    protected  
-            Console.WriteLine(libClass.name5);            //protected  internal 
+
+            Name = "public";
+            //Name1 = "internal";
+            //Name2 = "private";
+            Name3 = "private protected";
+            Name5 = "protected internal";
+
+
+
         }
     }
 }

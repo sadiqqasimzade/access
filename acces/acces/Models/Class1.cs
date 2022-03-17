@@ -6,23 +6,22 @@ namespace acces.Models
 {
     public class Class1
     {
-        public   string name = "Sadiq";
-        internal string name1 = "Sadiq";
-        private  string name2 = "Sadiq";
-        protected string name3 = "Sadiq";
-        private   protected string name4 = "Sadiq";
-        protected internal string name5 = "Sadiq";
+        public string Name { get; set; }
+        internal string Name1 { get; set; }
+        private string Name2 { get; set; }
+        protected string Name3 { get; set; }
+        private protected string Name4 { get; set; }
+        protected internal string Name5 { get; set; }
 
-
-        public void ShowInfo() //oz classinda istenilen modify ile her yanda el catandi
+        public void Set()
         {
-            Console.WriteLine(name);
-            Console.WriteLine(name1);
-            Console.WriteLine(name2);
-            Console.WriteLine(name3);
-            Console.WriteLine(name4);
-            Console.WriteLine(name5);
+            Name = "public";
+            Name1 = "internal";
+            Name2 = "private";
+            Name3 = "private protected";
+            Name5 = "protected internal";
         }
+
 
     }
 }

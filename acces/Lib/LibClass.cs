@@ -4,13 +4,12 @@ namespace Lib
     public class LibClass
     {
 
-        public string name = "Sadiq";
-        internal string name1 = "Sadiq";
-        private string name2 = "Sadiq";
-        protected string name3 = "Sadiq";
-        private protected string name4 = "Sadiq";
-        protected internal string name5 = "Sadiq";
-
+        public string Name { get; set; }
+        internal string Name1 { get; set; }
+        private string Name2 { get; set; }
+        protected string Name3 { get; set; }
+        private protected string Name4 { get; set; }
+        protected internal string Name5 { get; set; }
 
 
     }

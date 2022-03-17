@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\tu6w5xs1c\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\acces\\acces.csproj",
+      "projectUniqueName": "C:\\Users\\tu6w5xs1c\\Desktop\\access\\acces\\acces\\acces.csproj",
       "projectName": "acces",
-      "projectPath": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\acces\\acces.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\acces\\obj\\",
+      "projectPath": "C:\\Users\\tu6w5xs1c\\Desktop\\access\\acces\\acces\\acces.csproj",
+      "packagesPath": "C:\\Users\\tu6w5xs1c\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tu6w5xs1c\\Desktop\\access\\acces\\acces\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu6w5xs1c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\admin\\Desktop\\git\\1\\acces\\Lib\\Lib.csproj": {
-              "projectPath": "C:\\Users\\admin\\Desktop\\git\\1\\acces\\Lib\\Lib.csproj"
+            "C:\\Users\\tu6w5xs1c\\Desktop\\access\\acces\\Lib\\Lib.csproj": {
+              "projectPath": "C:\\Users\\tu6w5xs1c\\Desktop\\access\\acces\\Lib\\Lib.csproj"
             }
           }
         }
@@ -83,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

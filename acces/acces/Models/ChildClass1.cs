@@ -4,16 +4,17 @@ using System.Text;
 
 namespace acces.Models
 {
-    internal class ChildClass1:Class1
+    internal class ChildClass1 : Class1
     {
-        public void ShowInfo() //oz classinda istenilen modify ile her yanda el catandi
+
+        public void Set()
         {
-            Console.WriteLine(name);             //public   
-            Console.WriteLine(name1);            //internal  
-            /*Console.WriteLine(name2);  */      //private   
-            Console.WriteLine(name3);            //protected 
-            Console.WriteLine(name4);            //private    protected  
-            Console.WriteLine(name5);            //protected  internal 
-        } 
+            Name = "public";
+            Name1 = "internal";
+            //Name2 = "private";
+            Name3 = "private protected";
+            Name5 = "protected internal";
+        }
+
     }
 }
